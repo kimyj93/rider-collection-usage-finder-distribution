@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
-  <plugin id="com.jetbrains.rider.plugins.collectionusagefinder" url="https://kimyj93.github.io/rider-collection-usage-finder-distribution/CollectionUsageFinder-1.0.9.zip" version="1.0.9">
+  <plugin id="com.jetbrains.rider.plugins.collectionusagefinder" url="https://kimyj93.github.io/rider-collection-usage-finder-distribution/CollectionUsageFinder-1.0.10.zip" version="1.0.10">
     <name>Collection Usage Finder</name>
     <idea-version since-build="243.21565" />
   </plugin>
